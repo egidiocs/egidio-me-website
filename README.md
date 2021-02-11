@@ -1,20 +1,9 @@
-# egidio-me-website
+# https://egidio.me professional persona web app
 
-## Build Setup
+Static Nuxt.js 2.14, @nuxtjs/Tailwind and served from firebase hosting.
 
-```bash
-# install dependencies
-$ npm install
+### Desktop/Web Screenshot
+![Desktop/Web Screenshot](https://egidio.me/egidio-me.desktop.sreenshots.png)
 
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+### Mobile/PWA Screenshot
+![Mobile/PWA Screenshots](https://egidio.me/egidio-me.mobile-pwa.sreenshots.png)
